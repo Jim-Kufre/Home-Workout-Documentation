@@ -1,4 +1,4 @@
-# HOW TO CREAT YOUR CUSTOMIZED WORKOUT PLAN
+# HOW TO CREATE YOUR CUSTOMIZED WORKOUT PLAN
 
 ## Summary  
 This section walks through the **initial setup process** a user experiences when launching the Home Workout App for the first time. After completing this setup, users will receive a tailored workout plan based on their physical details, lifestyle, and personal goals.
