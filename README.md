@@ -26,4 +26,4 @@ This repo contains structured documentation for the app using the DITA approach:
 ---
 
 ## Contact
-Reach out to me on: [jimkufre111@gmail.com](jimkufre111@gmail.com)
+Reach out to me on: [jimkufre111@gmail.com](www.jimkufre111@gmail.com)
