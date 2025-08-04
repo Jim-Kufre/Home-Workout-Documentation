@@ -7,7 +7,7 @@ This repo is part of my portfolio where I demonstrate how to document real or sa
 ---
 
 ## About This Project
-The **Home Workout App** helps users develop a consistent fitness plans using only bodyweight exercises—no gym required.
+The **Home Workout App** helps users develop a consistent fitness program using only bodyweight exercises—no gym required.
 
 This repo contains structured documentation for the app using the DITA approach:
 
