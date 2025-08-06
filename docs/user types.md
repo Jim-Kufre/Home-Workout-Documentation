@@ -7,7 +7,8 @@ The Home Workout App is built for anyone who wants to stay fit without having to
 - **Busy Professionals**: Users with limited time for gym routines
 - **Frequent Travelers**: People who need a portable and consistent workout routine but travel frequently.
 - **Teenagers**: Young users who want to stay active at home or can't afford a gym membership.
-- **Fitness Levels Supported**: People who are beginners with zero experience.
+- **Fitness Levels Supported**:
+   - People who are beginners with zero experience.
    - People who are intermediate, and have some workout history.
    - People who are advanced, that is they are athletic but have no gym access.
 
