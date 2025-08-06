@@ -13,5 +13,5 @@ The Home Workout App is built for anyone who wants to stay fit without having to
    - People who are advanced, that is they are athletic but have no gym access.
 
 ## Example
-- James, a 40-year-old office worker, wants to stay active because his work makes him inactive. And instead of going to spend several hours or minutes at the gym, he installs the home workout app and uses it to stay active daily without having to go to the gym. 
+- James, a 40-year-old office worker, wants to stay active because his work makes him inactive. And instead of going to spend several hours or minutes at the gym, he installs the home workout app and uses it to stay active daily without having to go to the gym.
 - Chuka, a university student, has no access to a gym and prefers working in his dorm room.
