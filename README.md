@@ -20,7 +20,7 @@ This repo contains structured documentation for the app using the DITA approach:
 ## Documentation Topics
 
 - [Concept: Features of Home Workout App](./docs/concept.md)
-- [Concept: Who the Home Workout App is Designed for](./docs/user type.md)
+- [Concept: Who the Home Workout App is Designed for](./docs/user-type.md)
 - [Task: How to Create your Customized Workout Plan](./docs/task.md)
 - [Reference: Supported Workout Types](./docs/reference.md)
 
