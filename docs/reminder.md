@@ -30,8 +30,9 @@ You have created a customized workout programme. (If you have not created one, c
 
 ## Results
 When the scheduled time arrives, you will receive a notification that says:
-> Just a few minutes a day and you’ll be in shape in no time. Let’s get started.
-**Snooze** or **Start**
+
+"Just a few minutes a day and you’ll be in shape in no time. Let’s get started.
+**Snooze** or **Start**"
 You can choose to start your workout immediately or snooze the reminder.
 
 ## Example
