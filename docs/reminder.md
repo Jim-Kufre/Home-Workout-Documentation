@@ -5,9 +5,9 @@ This topic explains how to set up a workout reminder using the Home Workout app.
 
 ## Prerequisites
 
--** The Home Workout app is installed on your device.
+- The Home Workout app is installed on your device.
 
--** You have created a customized workout programme. (If you have not created one, click here to learn how.)
+- You have created a customized workout programme. (If you have not created one, click here to learn how.)
 
 
 ## Steps
