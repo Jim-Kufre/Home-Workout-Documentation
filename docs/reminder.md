@@ -31,9 +31,9 @@ You have created a customized workout programme. (If you have not created one, c
 ## Results
 When the scheduled time arrives, you will receive a notification that says:
 
-"Just a few minutes a day and you’ll be in shape in no time. Let’s get started.
-**Snooze** or **Start**"
-You can choose to start your workout immediately or snooze the reminder.
+"*Just a few minutes a day and you’ll be in shape in no time. Let’s get started.
+**Snooze** or **Start**
+You can choose to start your workout immediately or snooze the reminder.*"
 
 ## Example
 James has a busy schedule but wants to work out regularly. By setting up the reminder, he no longer has to remember his workout times manually. Once the notification appears, he simply selects Start to begin or Snooze if he needs a short delay.
