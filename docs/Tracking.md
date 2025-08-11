@@ -19,13 +19,13 @@ This task shows you how to view your workout statistics in the Home Workout App.
 
 2. Review your displayed workout statistics, including:
 
-*BMI (Body Mass Index)*
+**BMI** (Body Mass Index)
 
 *Current weight*
 
-*General progress*
+**General progress**
 
-*Workout streak (number of consecutive days you have worked out)*
+**Workout streak** (number of consecutive days you have worked out)
 
 
 
