@@ -25,6 +25,7 @@ This repo contains structured documentation for the app using the DITA approach:
 - [Task: How to Create your Customized Workout Plan](./docs/task.md)
 - [Task: How to Set Up a reminder for Working Out](docs/reminder.md)
 - [Task: How to Choose Workout by Muscle Group](docs/workout-by-muscle-group.md)
+- [Task: How to Track Your Workout Progress](docs/tracking.md)
 - [Reference: Supported Workout Types](./docs/reference.md)
 
 ---
