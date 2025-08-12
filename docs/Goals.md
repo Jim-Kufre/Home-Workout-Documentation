@@ -4,7 +4,7 @@ The Specific Goals section in the Home Workout app lets users select a workout g
 
 
 | Goal | Description | Example | Exercise Groups |
-|............|............|..............|...........|
+|--------------|---------------|-------------|-----------|
 | Build Muscle	| Focuses on strength training and muscle growth | Upper Body Strength, Core Power, Lower Body Strength |
 | Lose Fat | Combines cardio and strength for fat reduction | HIIT, Full Body Burn, Fat Blaster|
 | Keep Fit | Maintains overall fitness and mobility | Morning Stretch, Light Cardio, Everyday Strength |
