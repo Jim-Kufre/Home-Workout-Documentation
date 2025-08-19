@@ -4,8 +4,8 @@ This section lists all available workout plans in the app. Use it as a quick loo
 
 |Workout Plans|Focus|Exercises Included|Target Users|
 |---------------------|-------------------|------------------|---------------------|
-| Keep Fit Plan        | General fitness and daily activity    | Full-body light workouts, mobility drills, cardio bursts | Beginners, users who just want to stay active        |
-| Lose Fat Plan         |Calorie-burning and fat reduction.      | HIIT, cardio circuits, resistance training. | Users looking for weight loss and endurance           |
-| Build Muscle Plan.     | Strength training and muscle hypertrophy | Progressive resistance training, isolation and compound lifts, recovery sessions.   | Intermediate to advanced users aiming for size and strength.      |
+| Keep Fit Plan        | General fitness and daily activity    | Before workout warm ups, Stretching, Pain relief exercises, last longer in bed exercises | Beginners, users who just want to stay active        |
+| Lose Fat Plan         |Calorie-burning and fat reduction.      | HIIT, Fat burning exercises | Users looking for weight loss and endurance           |
+| Build Muscle Plan.     | Strength training and muscle hypertrophy | Isolation and full body challenge  | Intermediate to advanced users aiming for size and strength.      |
 
 
