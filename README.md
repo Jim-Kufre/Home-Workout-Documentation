@@ -18,7 +18,7 @@ This repo contains structured documentation for the app using the DITA approach:
 ---
 
 ## Documentation Topics
-- [Quick Start](/docs/Quick Start.md)
+- [Quick Start](/docs/Quickstart.md)
 - [Concept: Features of Home Workout App](./docs/concept.md)
 - [Concept: Who the Home Workout App is Designed for](docs/usertypes.md)
 - [Concept: Fitness Principles Behind the Homework App](docs/training-principles.md)
