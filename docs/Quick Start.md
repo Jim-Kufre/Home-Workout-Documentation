@@ -15,4 +15,6 @@ New to the Home Workout App? Getting your personalised plan only takes a few min
 
 
 
-You’ll land on the dashboard with your tailored workout schedule.
+You’ll land on the dashboard with your tailored workout schedule. 
+
+For more details, click [here](./docs/task.md)
