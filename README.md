@@ -28,7 +28,7 @@ This repo contains structured documentation for the app using the DITA approach:
 - [Task: How to Track Your Workout Progress](docs/tracking.md)
 - [Reference: Supported Workout Types](./docs/reference.md)
 - [Reference: Glossary](./docs/Glossary.md)
-- [Reference: Workout Plans](./docs/Workout-plan.md)
+- [Reference: Workout Plans](./docs/Workout-plans.md)
 
 ---
 
