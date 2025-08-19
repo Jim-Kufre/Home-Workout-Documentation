@@ -2,7 +2,7 @@
 
 New to the Home Workout App? Getting your personalised plan only takes a few minutes.
 
-1. Open the app and tap *Ready*.
+1. Open the app and tap **Ready**.
 
 
 2. Enter your goals and body details.
@@ -11,7 +11,7 @@ New to the Home Workout App? Getting your personalised plan only takes a few min
 3. Complete the short fitness assessment.
 
 
-4. Tap *Get My Plan*.
+4. Tap **Get My Plan**.
 
 
 
