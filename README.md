@@ -30,6 +30,7 @@ This repo contains structured documentation for the app using the DITA approach:
 - [Reference: Glossary](./docs/Glossary.md)
 - [Reference: Workout Plans](./docs/Workout-plans.md)
 - [FAQs](./docs/FAQs.md)
+- [Release Notes](./docs/Releasenotes.md)
 
 ---
 
